@@ -1,6 +1,6 @@
 # Ghidra Reverse Engineering Tutorial
 
-This repository contains source code and compiled executables to help you learn the basics of using **Ghidra** for reverse engineering.
+This repository contains source code and compiled executables to help readers learn the basics of using **Ghidra** for reverse engineering.
 
 ## Repository Structure
 
