@@ -9,9 +9,11 @@ Tutorial-Ghidra/
 ├── README.md               
 ├── bin/                   # Compiled executables (download these to follow tutorial)
 │   └── Ghidra_EX_1
+│   └── Ghidra_EX_2
 │   └── Placeholder
 ├── src/                   # Source code (e.g., C/C++)
 │   └── Ghidra_EX_1.cpp
+│   └── Ghidra_EX_2.cpp
 │   └── Placeholder  
 ```
 
