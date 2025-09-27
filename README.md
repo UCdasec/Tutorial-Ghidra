@@ -1,4 +1,4 @@
-# Ghidra Reverse Engineering Tutorial
+# Reverse Engineering Tutorial (Introduction to Ghidra)
 
 This repository contains source code and compiled executables to help readers learn the basics of using **Ghidra** for reverse engineering.
 
@@ -78,6 +78,7 @@ Ryan Evans evans2ra@mail.uc.edu, master in Computer Sceince
 Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE 
 
 Research Group Webpage: https://homepages.uc.edu/~wang2ba/
+
 
 
 
