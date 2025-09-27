@@ -61,6 +61,15 @@ https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Ste
    ./Ghidra_EX_1
    ```
 
+## Contacts
+
+This repo is maintained and contributed by the following members:  
+
+Ibraham Konare, konareic@mail.uc.edu, undergrad in Cybersecurity Engineering 
+Ryan Evans evans2ra@mail.uc.edu, master in Computer Sceince  
+Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE 
+
+Research Group Webpage: https://homepages.uc.edu/~wang2ba/
 
 
 
