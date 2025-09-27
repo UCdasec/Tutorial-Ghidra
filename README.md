@@ -79,7 +79,8 @@ Ryan Evans evans2ra@mail.uc.edu, master student in Computer Sceince at UC
 
 Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE at UC
 
-Research Group Webpage: https://homepages.uc.edu/~wang2ba/
+DaSec Lab Webpage: https://homepages.uc.edu/~wang2ba/
+
 
 
 
