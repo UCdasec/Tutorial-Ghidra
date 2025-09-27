@@ -29,7 +29,7 @@ https://www.overleaf.com/read/vpdzmzyyjdfx#31950a
 
 ## Tutorial Videos  
 
-We also provide a sequence of videos that completements the tutorial documents we provide above. 
+We also provide a sequence of videos that complements the tutorial documents we provide above. 
 
 Tutorial Ghidra Part 1, Installation
 https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part1_Environment_Setup++/1_o6e952ov 
@@ -78,6 +78,7 @@ Ryan Evans evans2ra@mail.uc.edu, master in Computer Sceince
 Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE 
 
 Research Group Webpage: https://homepages.uc.edu/~wang2ba/
+
 
 
 
