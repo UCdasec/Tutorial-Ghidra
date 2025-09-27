@@ -21,25 +21,33 @@ Tutorial-Ghidra/
 
 We provide tutorial documents showing (1) how to install Linux VM and Ghidra; (2) how to utilize the code in this repo to run a reverse engineering project using Ghidra. The pdf of this tutorial can be found below 
 
-https://www.overleaf.com/read/xwcgkqvvgtdc#30d0d6 (Tutorial Ghidra Part 1, Installation)
+Tutorial Ghidra Part 1, Installation
+https://www.overleaf.com/read/xwcgkqvvgtdc#30d0d6 
 
-https://www.overleaf.com/read/vpdzmzyyjdfx#31950a (Tutorial Ghidra Part 2, Analysis)
+Tutorial Ghidra Part 2, Analysis
+https://www.overleaf.com/read/vpdzmzyyjdfx#31950a 
 
 ## Tutorial Videos  
 
 We also provide a sequence of videos that completements the tutorial documents we provide above. 
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part1_Environment_Setup++/1_o6e952ov (Tutorial Ghidra Part 1, Installation)
+Tutorial Ghidra Part 1, Installation
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part1_Environment_Setup++/1_o6e952ov 
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step1_Intro_Code_Example/1_bb5m2tax (Tutorial Ghidra Part 2, Step 1, Intro to Code)
+Tutorial Ghidra Part 2, Step 1, Intro to Code
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step1_Intro_Code_Example/1_bb5m2tax 
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step2_Initial_Analysis/1_f7g1mt6n (Tutorial Ghidra Part 2, Step 2, Initial Analysis) 
+Tutorial Ghidra Part 2, Step 2, Initial Analysis
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step2_Initial_Analysis/1_f7g1mt6n  
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step3_Ghidra_UI/1_gq022mkd (Tutorial Ghidra Part 2, Step 3, Ghidra UI) 
+Tutorial Ghidra Part 2, Step 3, Ghidra UI
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step3_Ghidra_UI/1_gq022mkd  
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step4_Password_Cracking/1_kvveazpf (Tutorial Ghidra Part 2, Step 4, Passwork Craking) 
+Tutorial Ghidra Part 2, Step 4, Passwork Craking
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step4_Password_Cracking/1_kvveazpf  
 
-https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step5_Patching_Code/1_3wtjaada (Tutorial Ghidra Part 2, Step 5, Patching Code)
+Tutorial Ghidra Part 2, Step 5, Patching Code
+https://ceas.mediaspace.kaltura.com/media/Tutorial_Reverse_Engineering_Part2_Step5_Patching_Code/1_3wtjaada 
 
 
 ## Instructions Notes
@@ -70,6 +78,7 @@ Ryan Evans evans2ra@mail.uc.edu, master in Computer Sceince
 Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE 
 
 Research Group Webpage: https://homepages.uc.edu/~wang2ba/
+
 
 
 
