@@ -1,6 +1,6 @@
 # Reverse Engineering Tutorial
 
-This repository contains source code and compiled executables to help readers learn the basics of using **Ghidra** for reverse engineering. Additional similar steps using other tools, including Binary Ninja and IDA (Free), are also included. 
+This repository contains source code and compiled executables to help readers learn the basics of using **Ghidra** for reverse engineering. Additional similar steps using other tools, including **Binary Ninja** and **IDA (Free)**, are also included. 
 
 ## Repository Structure
 
@@ -10,6 +10,10 @@ Tutorial-Ghidra/
 ├── bin/                   # Compiled executables (download these to follow tutorial)
 │   └── Ghidra_EX_1
 │   └── Ghidra_EX_2
+│   └── example_1_password
+│   └── example_1_patch_ghidra
+│   └── example_1_patch_ninja
+│   └── example_1_patch_ida
 ├── src/                   # Source code (e.g., C/C++)
 │   └── Ghidra_EX_1.cpp
 │   └── Ghidra_EX_2.cpp
