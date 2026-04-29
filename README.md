@@ -78,6 +78,8 @@ This repo is maintained and contributed by the following members:
 
 Ibraham Konare, konareic@mail.uc.edu, undergrad student in Cybersecurity Engineering at UC
 
+Max Shapiro, tsvyetmx@mail.uc.edu, undergrad student in Computer Science at UC
+
 Ryan Evans evans2ra@mail.uc.edu, master student in Computer Sceince at UC 
 
 Boyang Wang, boyang.wang@uc.edu, Associate Professor in ECE at UC
