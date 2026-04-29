@@ -22,15 +22,15 @@ Tutorial-Ghidra/
 
 ## Tutorial Document 
 
-We provide tutorial documents showing (1) how to install Linux VM and Ghidra; (2) how to utilize the code in this repo to run a reverse engineering project using Ghidra. The pdf of this tutorial can be found below 
+We provide tutorial documents showing (1) how to install Linux VM and Ghidra; (2) how to utilize the C++ code in this repo to run a reverse engineering project using Ghidra/Binary Ninja; (3) how to utilize the C code in this repo to run a reverse engineering project using Ghidra/Binary Ninja/IDA; The pdfs of this tutorial can be found below 
 
 Tutorial Ghidra Part 1, Installation
 https://www.overleaf.com/read/xwcgkqvvgtdc#30d0d6 
 
-Tutorial Ghidra Part 2, Analysis (C++)
+Tutorial Ghidra Part 2, Analysis (C++ Code)
 https://www.overleaf.com/read/vpdzmzyyjdfx#31950a 
 
-Tutorial Ghidra Part 3, Analysis (C)
+Tutorial Ghidra Part 3, Analysis (C Code)
 TBD
 
 ## Tutorial Videos  
