@@ -19,9 +19,9 @@ Tutorial-Ghidra/
 │   └── Ghidra_EX_2.cpp
 │   └── example_1_password.c
 ├── document/              # Tutorial documents
-│   └── Tutorial_Part1.pdf
-│   └── Tutorial_Part2.pdf
-│   └── Tutorial_Part3.pdf
+│   └── Ghidra_Tutorial_Part1.pdf
+│   └── Ghidra_Tutorial_Part2.pdf
+│   └── Ghidra_Tutorial_Part3.pdf
 ```
 
 ## Tutorial Document 
