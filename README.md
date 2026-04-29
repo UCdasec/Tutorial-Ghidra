@@ -27,8 +27,11 @@ We provide tutorial documents showing (1) how to install Linux VM and Ghidra; (2
 Tutorial Ghidra Part 1, Installation
 https://www.overleaf.com/read/xwcgkqvvgtdc#30d0d6 
 
-Tutorial Ghidra Part 2, Analysis
+Tutorial Ghidra Part 2, Analysis (C++)
 https://www.overleaf.com/read/vpdzmzyyjdfx#31950a 
+
+Tutorial Ghidra Part 3, Analysis (C)
+TBD
 
 ## Tutorial Videos  
 
